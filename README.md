@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.3+-green.svg)](https://pandas.pydata.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **A comprehensive data science project analyzing 2,000 furniture products from AliExpress to uncover pricing strategies, sales drivers, and build predictive models for sales forecasting.**
 
