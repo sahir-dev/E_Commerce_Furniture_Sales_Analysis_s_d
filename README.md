@@ -73,19 +73,6 @@ Random Forest won with R² = 0.35. Not amazing, but decent. The model can explai
 └── visualizations/                      # all charts (10 PNGs)
 ```
 
-## Running It
-
-```bash
-# clone the repo
-git clone https://github.com/yourusername/ecommerce-furniture-analysis.git
-cd ecommerce-furniture-analysis
-
-# install dependencies
-pip install pandas numpy matplotlib seaborn scikit-learn
-
-# run the notebook
-jupyter notebook ecommerce_furniture_analysis.ipynb
-```
 
 ## Visualizations
 
@@ -122,5 +109,3 @@ If you're selling furniture on AliExpress:
 4. **Write longer titles** - More keywords = more visibility
 
 ---
-
-Built this for a data science portfolio project. Questions or feedback welcome.
