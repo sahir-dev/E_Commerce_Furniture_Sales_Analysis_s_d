@@ -56,16 +56,8 @@ Top features: price (23%), discount (20%), title length (16%)
     └── 11_dashboard.png
 ```
 
-## Run It
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-jupyter notebook ecommerce_furniture_analysis.ipynb
-```
-
 ## Tech Stack
 
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 ---
-Portfolio project. Feedback welcome.
